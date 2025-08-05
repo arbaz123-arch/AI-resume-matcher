@@ -1,0 +1,15 @@
+Extracted Resume Text:
+
+John Doe
+Software Engineer
+Email: john.doe@example.com
+Phone: +1-123-456-7890
+
+Skills:
+- Python
+- Java
+- SQL
+- Machine Learning
+
+Experience:
+Worked at ABC Corp for 3 years as a backend developer.
